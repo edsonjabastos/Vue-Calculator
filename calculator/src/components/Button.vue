@@ -22,7 +22,7 @@ export default {
   --bg-button: #f0f0f0;
   --border-button: solid 1px #888;
 }
-;button {
+.button {
   font-size: 1.4em;
   background-color: var(--bg-button);
   border: none;
